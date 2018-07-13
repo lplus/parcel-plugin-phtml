@@ -1,4 +1,4 @@
-const HTMLAsset = require("parcel-bundler/src/assets/HTMLAsset");
+const HTMLAsset = require('parcel-bundler/src/assets/HTMLAsset');
 const render = require('posthtml-render');
 
 class PHTMLAsset extends HTMLAsset {

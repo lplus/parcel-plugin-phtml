@@ -1,3 +1,3 @@
 module.exports = function( bundler ) {
-	bundler.addAssetType( "xml", require.resolve('./HTLMAsset'));
+	bundler.addAssetType( 'phtml', require.resolve('./PHTMLAsset'));
 };
