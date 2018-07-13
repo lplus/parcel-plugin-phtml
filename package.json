@@ -1,9 +1,9 @@
 {
-  "name": "parcel-plugin",
+  "name": "parcel-plugin-phtml",
   "version": "1.0.0",
   "description": "Parcel plugin for load html file as string that use .phtml extension",
   "license": "MIT",
-  "author": "LiYunxing",
+  "author": "LiYunxing <lplus@126.com>",
   "main": "index.js",
   "dependencies": {
     "parcel-bundler": "^1.9.4"
