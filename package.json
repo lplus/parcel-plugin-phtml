@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-phtml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parcel plugin for load html file as string that use .phtml extension",
   "license": "MIT",
   "author": "LiYunxing <lplus@126.com>",
