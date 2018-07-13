@@ -1,0 +1,26 @@
+{
+  "name": "parcel-plugin",
+  "version": "1.0.0",
+  "description": "Parcel plugin for load html file as string that use .phtml extension"
+  "license": "MIT",
+  "author": "LiYunxing",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.9.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lplus/parcel-plugin-phtml.git"
+  },
+   "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "phtml",
+	"html"
+  ],
+  "bugs": {
+    "url": "https://github.com/lplus/parcel-plugin-phtml/issues"
+  },
+  "homepage": "https://github.com/lplus/parcel-plugin-phtml#README"
+}
